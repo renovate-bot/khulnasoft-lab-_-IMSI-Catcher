@@ -83,7 +83,7 @@ dependencies {
     compile 'com.github.Stericson:RootShell:d708ae1f0a'
 
     // Dependency Injection for Android
-    compile 'io.freefair.android-injection:injection:2.0.0-beta1'
+    compile 'io.freefair.android-injection:injection:2.0.0-beta16'
     compile 'io.freefair.android-injection:logging:2.0.0-beta1'
     compile 'io.freefair.android-injection:okhttp:2.0.0-beta1'
 
