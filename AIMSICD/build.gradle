@@ -109,7 +109,7 @@ apply plugin: "io.freefair.android-checkstyle"
 apply plugin: "io.freefair.android-javadoc-jar"
 
 checkstyle {
-    toolVersion = "6.15"
+    toolVersion = "6.19"
 }
 
 String getBuildNumber() {
